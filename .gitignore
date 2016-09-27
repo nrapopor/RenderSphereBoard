@@ -6,3 +6,4 @@ RenderSpereBoardGerbersX2
 *.step
 *.7z
 *.csv
+~*.xl*
